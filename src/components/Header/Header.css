@@ -1,0 +1,31 @@
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+ul,li{
+    list-style-type: none;
+}
+a, a:hover{
+    text-decoration: none;
+}
+nav{
+    background-color: #1C2B35;
+    height: 80px;
+    padding: 0px 97px 0px 112px;
+}
+.menu{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;    
+}
+
+nav li{
+    display: inline;
+    padding: 0px 16px;
+}
+nav li a{
+    color:#fff;
+   
+}
+
