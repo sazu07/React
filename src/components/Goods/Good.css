@@ -5,4 +5,18 @@
 .product{
     width: 350px;
     height: 400px;
+    border: 1px solid #000;
+   
+    margin-bottom: 10px;
+   
+    position: relative;
+}
+button {
+    width: 100%;
+    position: absolute;
+    bottom: 0px;
+    padding: 10px;
+  
+    border: 1px solid #000;
+    background-color: red;
 }
